@@ -1,0 +1,7 @@
+password=Pulsar-123#
+replica_enable=no
+server_mode=CLOUD
+database=sdp
+server=sodalitydb
+donot_sync_resources=no
+username=app_user

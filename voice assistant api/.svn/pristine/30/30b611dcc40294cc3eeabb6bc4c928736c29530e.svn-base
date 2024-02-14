@@ -1,0 +1,14 @@
+#Mongo DB 
+mongoDb_Databse=history_data
+#Collection name 
+collection_grid=grid_log
+collection_dg=dg_log
+collection_alarm=alarms
+col_data_log=data_log
+#Mongo DB ip
+#mongoDb_ip=3.7.63.84
+mongoDb_ip=localhost
+#Mongo DB port
+mongoDb_Port=27017
+#Mongo DB pool count
+mongoDb_pool_count=40

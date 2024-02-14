@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10ed08b1-e438-4c67-bd1b-771c63ea3d55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/voiceassistant.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/voiceassistant.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/voiceassistant.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/voiceassistant.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Dao/MainDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Dao/MainDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Services/MainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/radius/voice/assistant/Services/MainService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/radius.voice/radiusvoice/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/radius.voice/radiusvoice/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/radius.voice/radiusvoice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/radius.voice/radiusvoice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Dao/MainDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Dao/MainDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Services/MainService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/radius/voice/assistant/Services/MainService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26So1U12rATPXfxrxCCzjbimSXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/UHESWSDL" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in radiusvoice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="radiusvoice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in radiusvoice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Radius\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+          <option name="myCopyRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+          <option name="myCopyRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant\bin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+          <option name="myCopyRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant" />
+          <option name="myCopyRoot" value="C:\Users\Radius\eclipse-workspace\repos_voice_assistant\bin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10ed08b1-e438-4c67-bd1b-771c63ea3d55" name="Changes" comment="" />
+      <created>1647426145324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647426145324</updated>
+    </task>
+    <servers />
+  </component>
+</project>
